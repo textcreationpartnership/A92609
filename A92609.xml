@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall propositions from the Parliament of Scotland, concerning the Kings Majesties royall person, and the raising of a new army for the defence and preservation of the League and Covenant. With a declaration from the commissioners of the Generall Assembly, to the honourable estates of Parliament, concerning monarchical government in the Kings Majesty and his posterity. And their representation touching the Presbyterian party in England. Agreed upon by the commissioners of the Generall Assembly, and subscribed, A. Ker.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92609</idno><idno type="EEBO-CITATION">99865446</idno>
+  <idno type="VID">117687</idno>
+  <idno type="EEBO-PROQUEST">2240911782</idno>
+  
+            <idno type="STC">Wing S1338</idno>
+            <idno type="STC">Thomason E435_40</idno>
+            <idno type="STC">ESTC R206274</idno>
+            <idno type="PROQUEST">99865446</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865446e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117687)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall propositions from the Parliament of Scotland, concerning the Kings Majesties royall person, and the raising of a new army for the defence and preservation of the League and Covenant. With a declaration from the commissioners of the Generall Assembly, to the honourable estates of Parliament, concerning monarchical government in the Kings Majesty and his posterity. And their representation touching the Presbyterian party in England. Agreed upon by the commissioners of the Generall Assembly, and subscribed, A. Ker.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MD CXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117687:1"/>
+            <p>SEVERALL PROPOSITIONS FROM THE PARLIAMENT OF SCOTLAND, CONCERNING The Kings Majesties Royall Person, and the raising of a new Army for the defence and preservation of the <hi>LEAGVE</hi> and <hi>COVENANT.</hi>
+            </p>
+            <p>WITH A Declaration from the <hi>Commissioners</hi> of the <hi>Generall As<g ref="char:EOLhyphen"/>sembly,</hi> to the honourab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Estates of <hi>Parliament,</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Monarchical Government</hi> in the Kings <hi>Majesty</hi> and His Posterity.</p>
+            <p>AND Their Representation touching the Presbyterian party in <hi>England.</hi>
+            </p>
+            <p>AGreed upon by the Commissioners of the <hi>Generall As<g ref="char:EOLhyphen"/>sembly,</hi> and <hi>Subscribed, A. KER.</hi>
+            </p>
+            <p>
+               <add>Aprill 17th</add> LONDON, Printed for R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_propositions">
+            <pb facs="tcp:117687:2"/>
+            <pb n="1" facs="tcp:117687:2"/>
+            <head>Severall PROPOSITIONS Agreed upon by the Parliament of SCOTLAND Concerning The Kings Majesty, their Army in <hi>Scotland,</hi> and the solemn League and Covenant.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THe greatest newes which these parts afford, is the sad thoughts of a second War, and it is feared it wil be too probable; for a great party of Horse &amp; foo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lately raised in this Kingdome, are quartered betwixt this City and Barwich. Here is now very little talk of Cap. <hi>Wo<g ref="char:EOLhyphen"/>ga<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Sir <hi>Tho: Glenham</hi> was lately in this City, but he, with some other of the English Cavalry, are gone, (as it is said) towards the Borders of <hi>England.</hi>
+            </p>
+            <pb n="2" facs="tcp:117687:3"/>
+            <p>The Parliament have sate very close these 6 or 7 dayes and have now agreed upon certain propositions, touching the Kings Majesty, Army, and Covenant, the heads whereof I shal here briefly insert, <hi>viz.</hi>
+               <list>
+                  <item>1. That an Army be raised for the safety and preserva<g ref="char:EOLhyphen"/>tion of the two Kingdomes of <hi>Scotland</hi> and <hi>England.</hi>
+                  </item>
+                  <item>2. That none who have adhered formerly, or ingaged with the malignant party, shal have any command or service in the said Army.</item>
+                  <item>3. That they wil by their Army defend and maintaine the Solemn League and Covenant, as also the Kings Majesties Royal person, if he wil take the Covenant, and that they wil to the utmost of their power, maintaine and preserve the peace of both Kingdoms.</item>
+               </list>
+            </p>
+            <p>These, and some other particulars, doth not a little dis<g ref="char:EOLhyphen"/>courage the malignants in these parts.</p>
+            <p>The Commissioners of the General Assembly have also presented their Representation to the Estates of Parlament, touching the state of a question for War, <hi>viz.</hi>
+               <list>
+                  <item>1. We conceive that there may be an acting in reverence to a War, before the unlawfulnesse of the Warre, and the state of the question be agreed upon, which is the very thing we did desire to be avoided.</item>
+                  <item>2. Wee neither find any breaches of peace betweene th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Kingdoms, which may be a ground of War condiscended upon, nor any positive resolution of the Parliament to seek reparation thereof, according to the Treaties, yet both these were desired by us.</item>
+                  <item>3. In stead of that clause of the desire, The Pr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sbyterian party in <hi>England,</hi> who continue firme in adhering to the League and Covenant, we find this change of expression in the Answer, The Presbyterians and wel-affected in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> which, as the words stand, may intimate and suppose
+<pb n="3" facs="tcp:117687:3"/> that there are some wel-affected in <hi>England,</hi> which are not of the Presbyterian party, nor do adhere to the League and Covenant.</item>
+                  <item>4. Our fourth desire for not joyning or associating with the malignant party if they shal again rise in armes, and that it may be endeavoured to suppresse them as Enemies to the Cause and Covenant on the one hand, as well as Sec<g ref="char:EOLhyphen"/>taries on the other, being so just in it self, so consonant to the former principles and professions both of this Kirk and Kingdom since their first engagement in this Cause, and be<g ref="char:EOLhyphen"/>ing also as clear, both in the matter and expression as the Covenant, Treaties and Declarations of both Kingdomes, &amp;c.</item>
+                  <item>5. As your Lordships answer seems to oppose his Maje<g ref="char:EOLhyphen"/>sties late concessions concerning Religion, not to be satisfa<g ref="char:EOLhyphen"/>ctory; so these concessions being so prejudicial to the cause and Covenant, we wish your Lordships had beene pleased to declare against them, both positively without any con<g ref="char:EOLhyphen"/>dition, and presently without any delay.</item>
+                  <item>6. In answer to the 6. desire, As there is much said in the first part for security of Religion to be had from his Maj. so that clause, <hi>viz.</hi> That this security be had from his Ma<g ref="char:EOLhyphen"/>jesty before his restitution to the exercise of his Royal po<g ref="char:EOLhyphen"/>wer, not being agreed to by your Lordships, but rather laid aside until some smoother expressions be found out, we are left unsatisfied in that which is the main of that desire, and cannot be assured of any security, expressed in the first part of your Lordships Answer.</item>
+                  <item>7. The Answer to the 7. Desire concerning such as are to be trusted in Armies and Committees, doth omit some of the qualifications expressed in our desire, we are not with<g ref="char:EOLhyphen"/>out fears that this omission may be made use of by some, as if your Lordships had not meant to agree fully to that de<g ref="char:EOLhyphen"/>sire.</item>
+                  <pb n="4" facs="tcp:117687:4"/>
+                  <item>8. In answer to the last desire, in stead of th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t clear ex<g ref="char:EOLhyphen"/>pression used by us, namely, <hi>That the Kirk may have the same interest in any Oath for a new Engagement which they had in the solemn League and Covenant,</hi> we find this doubtful, and uncertain expression, <hi>That both in the framing of the Oath, and otherwise, the Kirk shall have their due interest.</hi> Which difference of your Lordships expression from ours, may also be interpreted by some, as if the Kirk had assumed more interest in the League and Covenant, then was due unto them.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Vpon these and the like considerations, we humbly conceive that our Desires, unto which we still adhere as just and necessa<g ref="char:EOLhyphen"/>ry, are not satisfied by your Lordships answer. And without clear satisfaction in these Desires, we find it not safe to appoint a Conference, for agreeing vpon the state of a question for war.</hi>
+            </p>
+         </div>
+         <div type="General_Assemblys_response_to_proposals">
+            <head>The Answer to the Parliaments paper.</head>
+            <p>THe Commissioners of the <hi>Generall Assembly</hi> having received a Paper from the Honourable Estate of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> desiring a conference upon our late Desires, and the Parliaments Answer given thereunto, and also upon the state of the question, and whole matter, Do humbly return this Answer, and Declare, That if your Lordships shal be yet pleased to give real and cleare satisfaction to our said Desires, wee shal immediatly thereupon appoint some of our number to confer with a Committee of Parliament upon the state of the question, This insisting upon satisfa<g ref="char:EOLhyphen"/>ction to our Desires, before we appoint a Conference upon the state of the question, doth not proceed from any perem<g ref="char:EOLhyphen"/>ptorinesse about words or things of smal moment, nor from any partiality or self-intrest, nor from any inclination
+<pb n="8" facs="tcp:117687:4"/> to stretch our selves beyond our line, nor from any intention to obstruct any lawful endeavours, either for preserving Mo<g ref="char:EOLhyphen"/>narchical Government in the Kings Majesty and his Posteri<g ref="char:EOLhyphen"/>ty, or for opposing and suppressing of Sectaries, <hi>Our record is in Heaven, we abhor and detest all such wayes: But our reall pur<g ref="char:EOLhyphen"/>pose is to keep our selves so free, that in an implicite way we may not consent to, nor concur in stating of a question of war, before we see the safety and security of Religion sufficiently provided provided for, being tender of the great trust committed to us, as the servants of Jesus Christ, and Officers of his Kingdom, for pre<g ref="char:EOLhyphen"/>serving the precious jewel of Religion, which ought to be at well to your Lordships as to us, above all worldly interests.</hi>
+            </p>
+            <closer>
+               <signed>Subscribed A. KER.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Sad newes from the West of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>THe affairs here are in a very sad condition, our feares dayly increase, and the Country is divided; for the ma<g ref="char:EOLhyphen"/>lignant party gives out high speeches, and divers of the Ca<g ref="char:EOLhyphen"/>valry resorts to Pembroke Castle, for the assistance of col. Poyer, and it is to be feared, they wil very much indanger the publique peace of these Counties, and prove a great ob<g ref="char:EOLhyphen"/>struction to the proceedings of Parliament, &amp;c. Their num<g ref="char:EOLhyphen"/>bers increase, but not to that height as is reported, although it be rumoured that they are 4. or 5000. strong, but I can assure you to the contrary, that they do not consist of above 8. or 900. Horse and Foot, and divers of them slightly ar<g ref="char:EOLhyphen"/>med, the greatest part of them are such who its thought will hardly change many blows.</p>
+            <p>On Tuesday last a little before night, the two Companies of souldiers that went down by water from <hi>Bristol,</hi> landed neere <hi>Hentlan</hi> in <hi>Milford,</hi> and on Wednesday were set upon by the two
+<pb n="6" facs="tcp:117687:5"/> troops of Horse, and about <hi>100.</hi> Foot of <hi>Poyers</hi> in <hi>Pulchran</hi> Church, and Church-yard, but they maintained the place, and are not taken as the report was, but had conditions upon treaty, to march away with their arms, and are gone to Cardiff, upon en<g ref="char:EOLhyphen"/>gagement not to land again in <hi>Milford.</hi>
+            </p>
+            <p>The same day <hi>Poyer</hi> beset Hentlau house, where was Mr. <hi>White,</hi> Mr. <hi>Roger Lort,</hi> Adjutant Generall <hi>Flemming,</hi> Mr. <hi>John Lort,</hi> and severall other Commissioners and Gentlemen that were met together, about the accomodating and quartering of the new landed souldiers, all of them are and was in great danger of taking, but they also by a stratagem escaped, and are got on ship-boord.</p>
+            <p>One <hi>Butler</hi> a Colonell of the Kings Army, a grand Malig<g ref="char:EOLhyphen"/>nant, commanded the Foot that were about the House, and had provided bars of Iron, sledges, and other instruments, for the breaking open of the doors of the house.</p>
+            <p>By this, and what hath formerly been certified, you may see the setled resolution and activenesse of <hi>Poyer,</hi> and his adherents to raise a new war, which I am confident will grow to such a head on a sudden, if not timely prevented, in those malignant and dis<g ref="char:EOLhyphen"/>contented parts, as will not easily be overcome.</p>
+            <closer>
+               <dateline>Carmarthen <date>12 April, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Imprimatur,</p>
+               <closer>
+                  <signed>G. M.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
